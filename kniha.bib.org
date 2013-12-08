@@ -1,0 +1,45 @@
+@inproceedings{Crespi-ReghizziStefano1971,
+author = {Crespi-ReghizziStefano},
+booktitle = {IFIP Congress (1)},
+pages = {524--529},
+title = {{An Effective Model for Grammar Interference.}},
+url = {http://dblp.uni-trier.de/db/conf/ifip/ifip71-1.html\#Crespi-Reghizzi71},
+year = {1971}
+}
+
+@misc{source,
+  author = {Malý, Michal},
+  title = {Source code for {M}yhill-{N}erode equivalence stemming},
+  month = april,
+  year = {2010},
+  howpublished = {Available at: \url{http://mmm.ii.fmph.uniba.sk/myhill_nerode.zip}},
+  url = {http://mmm.ii.fmph.uniba.sk/myhill_nerode.zip}
+}
+
+@misc{korpus,
+  author = {{Jazykovedný ústav Ľ. Štúra SAV}},
+  title = {{Frequency Statistics for the prim-4.0, Slovak National Corpus}},
+  month = february,
+  year = {2009},
+  howpublished = {Available at: \url{http://korpus.juls.savba.sk/stats/prim-4.0/word-lemma/prim-4.0-juls-all-word-frequency.txt.gz}},
+  url = {http://korpus.juls.savba.sk/stats/prim-4.0/word-lemma/prim-4.0-juls-all-word-frequency.txt.gz}
+}
+@article{myhill,
+     jstor_articletype = {primary_article},
+     title = {Linear Automaton Transformations},
+     author = {Nerode, A.},
+     journal = {Proceedings of the American Mathematical Society},
+     jstor_issuetitle = {},
+     volume = {9},
+     number = {4},
+     jstor_formatteddate = {Aug., 1958},
+     pages = {541--544},
+     url = {http://www.jstor.org/stable/2033204},
+     ISSN = {00029939},
+     abstract = {},
+     language = {},
+     year = {1958},
+     publisher = {American Mathematical Society},    
+     copyright = {Copyright © 1958 American Mathematical Society},
+}
+
