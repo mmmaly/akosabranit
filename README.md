@@ -3,6 +3,8 @@ akosabranit
 
 Ako sa brániť proti polícii a iným orgánom pri ich neoprávnených zásahoch
 
+PDF na stiahnutie (skompilovaná verzia): https://github.com/mmmaly/akosabranit/blob/master/kniha.pdf?raw=true
+
 
 Čo si môžu voči Vám dovoliť policajti? A čo si môžete dovoliť vy voči
 nim? Táto kniha vyvracia niektoré bežné mýty a popisuje, aké
